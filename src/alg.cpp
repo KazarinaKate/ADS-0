@@ -17,5 +17,5 @@ if (a >= b) {
                 continue;
             }
         }
-    }
+    } return 0;
 }
